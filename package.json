@@ -1,0 +1,24 @@
+{
+  "name": "echarts-kb",
+  "version": "1.0.0",
+  "description": "ECharts 知识库 - 系统化学习与实践指南",
+  "type": "module",
+  "scripts": {
+    "dev": "echo 'Static HTML site - open html/index.html directly or use a static server'",
+    "build": "echo 'Static HTML site - no build required, files are in html/ directory'",
+    "preview": "npx serve html"
+  },
+  "keywords": [
+    "echarts",
+    "data-visualization",
+    "knowledge-base",
+    "charts",
+    "documentation"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jarodchen.github.io/echarts-kb.git"
+  }
+}
